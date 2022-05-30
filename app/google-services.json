@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803179983209",
+    "firebase_url": "https://airport-fareb-default-rtdb.firebaseio.com",
+    "project_id": "airport-fareb",
+    "storage_bucket": "airport-fareb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803179983209:android:7bd98c449bc4f33acf4df8",
+        "android_client_info": {
+          "package_name": "com.example.airportfarebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803179983209-ppn4pd4s4edl767021qcahhidbbluihj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xNMNwQ3NbDcAug9bqDxxqcI0tPsbo1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803179983209-ppn4pd4s4edl767021qcahhidbbluihj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
